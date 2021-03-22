@@ -26,7 +26,7 @@ sudo service supervisor start
 
 sudo apt autoremove -y
 
-git clone https://github.com/boyic-git/aws-notebook-environment-setup.git
+git clone https://github.com/haoxiangxu23/aws-notebook-environment-setup
 
 chmod +x ./aws-notebook-environment-setup/setup.sh
 
